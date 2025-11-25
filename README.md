@@ -2,7 +2,7 @@
 
 ### Data Science Student @ Università di Pisa, Italy
 
-I'm a computer science student passionate about building practical, efficient and scalable software systems.
+I'm a data science student passionate about building practical, efficient and scalable software systems.
 
 - 📍 Based in Pisa, Italy  
 - 🎓 B.Sc. Computer Science @ Unipi  
